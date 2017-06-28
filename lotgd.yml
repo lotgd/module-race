@@ -1,0 +1,5 @@
+entityNamespace: "LotGD\\Module\\Race\\"
+subscriptionPatterns:
+    - "#h/lotgd/module-new-day/before#"
+    - "#h/lotgd/core/navigate-to/lotgd/module-race/choose#"
+    - "#h/lotgd/core/navigate-to/lotgd/module-race/select#"
